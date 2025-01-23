@@ -65,7 +65,7 @@ color:#404bbf;
     background-color: #404BBF;
 }
 
-.button:active {
+.button:focus{
     background-color: #404BBF;
 }
 .page-title{
