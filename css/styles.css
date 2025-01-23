@@ -9,12 +9,17 @@ body{
         height: 600px;
 }
 .page-title{
-    font-weight: 700;
-        font-size: 56px;
-        line-height: 1.07143;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #fff;
+font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+.section-team{
+    background-color: #f4f4fd;
+    width: 1440px;
+      height: 732px;
 }
 .section-title{
     font-weight: 500;
