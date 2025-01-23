@@ -24,11 +24,15 @@ font-weight: 700;
 }
 .section-title{
     font-weight: 500;
-        font-size: 32px;
+        font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
+}
+.team-foto{
+    background-color: #FFFFFF
 }
 
 .title{
