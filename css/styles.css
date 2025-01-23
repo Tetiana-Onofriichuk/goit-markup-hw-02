@@ -2,14 +2,14 @@ body{
     font-family: "Roboto","Raleway", sans-serif;
     color: #2e2f42;
 }
+
 .page-title{
     font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11111;
+        font-size: 56px;
+        line-height: 1.07143;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #2e2f42;
-
+        color: #fff;
 }
 .section-title{
     font-weight: 500;
@@ -41,4 +41,13 @@ body{
 }
 footer{
     background-color: #2e2f42;
+    width: 1440px;
+        height: 312px;
+}
+.page-footer{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
 }
