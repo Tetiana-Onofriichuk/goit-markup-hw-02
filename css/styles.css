@@ -1,6 +1,7 @@
 body{
-    font-family: "Roboto","Raleway", sans-serif;
-    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
+  color: #434455
    
 }
 .main-page{
@@ -23,9 +24,10 @@ font-weight: 700;
 }
 .section-title{
     font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
+        font-size: 32px;
+        line-height: 1.11;
         letter-spacing: 0.02em;
+        text-align: center;
         color: #2e2f42;
 }
 
