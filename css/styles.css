@@ -15,21 +15,23 @@ body{
 
 }
 
-.logo-two{
+.logo-2{
     color: #2e2f42;
 }
 
-.link-three{
+
+
+.link-nav{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.link-three:hover{
+.link-nav:hover{
    color: #404bbf;
 }
-.link-three:focus{
+.link-nav:focus{
    color: #404bbf;
 }
 
@@ -37,13 +39,15 @@ body{
 font-style: normal;
 }
 
-.link-adr{
+.link-adr {
     font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
+
+
 .link-adr:hover{
 color:#404bbf;
 }
@@ -71,7 +75,7 @@ color:#404bbf;
 .button:focus{
     background-color: #404BBF;
 }
-.page-title{
+.title-1{
 font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -80,12 +84,8 @@ font-weight: 700;
     line-height: 1.07;
     color: #fff;
 }
-.section-team{
-    background-color: #f4f4fd;
-    
-     
-}
-.section-title{
+
+.title-2{
     font-weight: 500;
         font-size: 36px;
         line-height: 1.11;
@@ -94,12 +94,16 @@ font-weight: 700;
         text-transform: capitalize;
         color: #2e2f42;
 }
+.section-team {
+    background-color: #f4f4fd;
+
+}
 
 .team-link{
     background-color: #FFFFFF
 }
 
-.title{
+.title-3{
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -121,7 +125,7 @@ font-weight: 700;
     background-color:#2e2f42;
    
 }
-.logo-four{
+.logo-3{
     color: #f4f4fd
 }
 .page-footer{
